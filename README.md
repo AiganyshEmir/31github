@@ -1,2 +1,2 @@
 # 31github
-My first Github Challenge with Growth. Hungry 
+My first Github Challenge with Growth Hungry 
