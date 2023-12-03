@@ -1,3 +1,2 @@
 # 31github
-My first Github Challenge with Growth Hungry 
-Hello, this is my second day of the Challenge
+My plans for 30 days: Следовать Гайд для Новичков!
